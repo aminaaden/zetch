@@ -20,4 +20,4 @@ Zetch outputs CSS helper classes that match the selected Zeplin layer. This allo
 
 ## Coming soon
 
-Once Zeplin adds an API that allows you to fetch data from external servers, we will add the capability to upload a CSS file and reference it via Zeplin instead of requiring you to manually add the CSS file to the project and run `cssparser` to convert it to JSON.
+When Zeplin adds an API that allows you to fetch data from external servers, we will add the capability to upload a CSS file and reference it via Zeplin instead of requiring you to manually add the CSS file to the project and run `cssparser` to convert it to JSON.
